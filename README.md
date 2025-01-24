@@ -22,4 +22,4 @@ To uninstall the Student Log In:
 5. Follow the on-screen instructions to complete the uninstallation process.
 
 ## Support
-If you encounter any issues during installation or have questions, please contact us.
+If you encounter any issues during installation or have questions, please contact us at [cristian@robotrevolution.net](mailto:cristian@robotrevolution.net).
